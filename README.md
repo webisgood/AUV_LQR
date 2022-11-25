@@ -1,0 +1,1 @@
+In this project we as a group of four have worked on modeling an AUV using MATLAB and Simulink and design a full-state feedback controller for it using the LQR algorithm.
